@@ -463,4 +463,8 @@ p {
     .footer__nav li + li {
       margin: 0 0 0 0;
     }
+
+  .footer__copyright {
+    text-align: right;
+  }
 }
